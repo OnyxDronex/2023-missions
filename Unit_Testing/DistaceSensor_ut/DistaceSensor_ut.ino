@@ -2,7 +2,7 @@
 #include "DistanceSensor.h"
 
 
-DistSens = DistanceSensor();
+DistanceSensor DistSens = DistanceSensor();
 
 void setup() {
   Serial.begin(9600);
