@@ -1,4 +1,3 @@
-
 #define echoPin 5
 #include <Adafruit_NeoPixel.h>
 #define PIN 12
